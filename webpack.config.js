@@ -9,9 +9,9 @@ module.exports = {
     // library: 'zt-common-utils',
     library: {
       name: {
-        amd: 'loaf',
-        commonjs: 'loaf',
-        root: 'loaf',
+        amd: 'zyloaf',
+        commonjs: 'zyloaf',
+        root: 'zyloaf',
       },
       type: 'umd'
     }
